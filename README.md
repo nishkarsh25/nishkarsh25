@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3927190-5113-4510-a2ee-5ad6fd0e124a)<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nishkarsh💙 </h1>
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nishkarsh💙 </h1>
 
 <div align="center">
 

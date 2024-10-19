@@ -55,21 +55,27 @@
 
 <div align="center">
 
+<!-- Profile Visitors -->
 ![](https://visitcount.itsvg.in/api?id=nishkarsh25&label=Profile%20Visitors&color=0E0E0E&icon=6&pretty=true)
 
+<!-- GitHub Stats -->
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=nishkarsh25&theme=gruvbox&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=00FF00" width="48%" alt="nishkarsh25's github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nishkarsh25&theme=gruvbox&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=00FF00&bg_color=0E0E0E&icon_color=FFD700&title_color=00FF00" width="48%" alt="nishkarsh25's github-readme-stats">
 </a>
 
+<!-- Streak Stats -->
 <a href="https://github.com/nishkarsh25?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarsh25&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&border=00FF00" width="48%" alt="nishkarsh25's github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarsh25&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&border=00FF00&background=0E0E0E&stroke=00FF00&ring=FFD700&fire=FFD700" width="48%" alt="nishkarsh25's github-readme-streak-stats">
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishkarsh25&theme=gruvbox&layout=compact&border_color=00FF00" width="34%">
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishkarsh25&theme=gruvbox&layout=compact&border_color=00FF00&bg_color=0E0E0E&title_color=FFD700" width="34%">
 
-![](https://github-profile-trophy.vercel.app/?username=nishkarsh25&theme=dark&no-bg=true&no-frame=true&margin-w=15)
+<!-- Trophies -->
+![](https://github-profile-trophy.vercel.app/?username=nishkarsh25&theme=dark&no-bg=true&no-frame=true&margin-w=15&column=7&row=1&custom_color=FFD700)
 
 </div>
+
 
 
 ## ✍️ Random Dev Quote

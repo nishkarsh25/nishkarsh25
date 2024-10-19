@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nishkarsh💙 </h1>
+![image](https://github.com/user-attachments/assets/d3927190-5113-4510-a2ee-5ad6fd0e124a)<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nishkarsh💙 </h1>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💼 About Me
+## 🙋‍♂️ About Me
 - 🎓 **Student at IIT Hyderabad**
 - 🌟 MERN Stack & NEXTJS 14 Developer  
 - 💻 AI/ML Enthusiast working on Python backend and models  
@@ -22,31 +22,29 @@
 ## 🚀 Skills & Technologies <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30">
 
 ### Languages
-| Python | C++ | JavaScript | Kotlin | SQL |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> |
+| Python | C++ | JavaScript | Kotlin | JetPackCompose | Java |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/> |
 
 ### Frontend
 | ReactJS | NextJS | HTML5 | CSS3 | TailwindCSS | Redux Toolkit |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="50" height="50"/> |
 
-
-
 ### Backend & Databases
-| NodeJS | ExpressJS | MongoDB | MySQL | REST APIs |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/> | <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> | <img src="https://media.lordicon.com/icons/wired/outline/1330-rest-api.gif" width="50" height="50"/> |
+| NodeJS | ExpressJS | MongoDB | Supabase | Firebase | REST APIs |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/> | <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/supabase/supabase-original.svg" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firebase/firebase-original.svg" width="50" height="50"/> | <img src="https://media.lordicon.com/icons/wired/outline/1330-rest-api.gif" width="50" height="50"/> |
 
 ### Python Libraries & Tools
-| NumPy | Pandas | Matplotlib | Scikit-Learn | TensorFlow |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> |
+| NumPy | Pandas | Matplotlib | Scikit-Learn | TensorFlow | Flask |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> | <img src="https://p.kindpng.com/picc/s/188-1882559_python-flask-hd-png-download.png" width="50" height="50"/> |
 
 ### Environments & Tools
-| Jupyter | Anaconda | Git | GitHub | Docker | Markdown |
+| Anaconda | Jupyter  | Android Studio | VSCode | Git | Markdown |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> | <img src="https://png.pngtree.com/png-vector/20240219/ourlarge/pngtree-markdown-file-icon-outline-style-design-document-text-symbol-vector-illustration-png-image_11750798.png" width="50" height="50"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/> | <img src="https://png.pngtree.com/png-vector/20240219/ourlarge/pngtree-markdown-file-icon-outline-style-design-document-text-symbol-vector-illustration-png-image_11750798.png" width="50" height="50"/> |
 
 
 ---

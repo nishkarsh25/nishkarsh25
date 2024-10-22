@@ -66,7 +66,7 @@
 
 <!-- Streak Stats -->
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nishkarsh25&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=00FFFF&background=0D1117&stroke=FFFFFF&ring=00FFFF&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=00FFFF&border_radius=15" width="48%" alt="nishkarsh25's Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nishkarsh25&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=00FFFF&background=0D1117&stroke=FFFFFF&ring=00FFFF&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=00FFFF&border_radius=16" width="48%" alt="nishkarsh25's Streak Stats">
 </a>
 
 <!-- Top Languages -->
@@ -75,8 +75,12 @@
 </a>
 
 <!-- Trophies -->
-<a href="https://github.com/nishkarsh25?tab=repositories">
+<!-- <a href="https://github.com/nishkarsh25?tab=repositories">
     <img src="https://github-profile-trophy.vercel.app/?username=nishkarsh25&theme=onestar&no-frame=true&no-bg=true&margin-w=15&column=7&row=1&title_color=00FFFF&border_color=00FFFF" alt="nishkarsh25's GitHub Trophies" width="90%">
+</a> -->
+
+<a href="https://github.com/nishkarsh25?tab=repositories">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/340b78d6c408afa1ea301690fc97891bafbc7862/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
 </a>
 
 </div>

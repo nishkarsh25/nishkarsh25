@@ -62,7 +62,7 @@
 </a>
 
 <!-- Streak Stats -->
-<a href="https://github.com/nishkarsh25?tab=stars">
+<a href="https://github.com/nishkarsh25?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nishkarsh25&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=00FFFF&background=0D1117&stroke=FFFFFF&ring=00FFFF&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=00FFFF&border_radius=15" width="48%" alt="nishkarsh25's Streak Stats">
 </a>
 

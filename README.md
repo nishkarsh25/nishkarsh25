@@ -15,7 +15,7 @@
 - 📱 Experienced in Android Development with Kotlin  
 - 💡 Strong in Data Structures and Algorithms  
 - ⚙️ Proficient with Git, GitHub, and Anaconda environments  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/nishkarsh25/)** <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18">
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/nishkarsh-gupta-092346305/)** <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18">
 
 ---
 

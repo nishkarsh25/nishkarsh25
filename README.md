@@ -48,7 +48,10 @@
 
 ---
 
-## 🏆 LeetCode Achievements 🏆
+## 🏆 LeetCode Statistics 🏆
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+ <img  flex-grow=1 src="https://leetcard.jacoblin.cool/nishkarsh25?theme=dark&font=Nunito&ext=heatmap" />  
+</div>
 
 <!-- Badges Section -->
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">

@@ -53,16 +53,16 @@
 <!-- Badges Section -->
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://leetcode.com/u/nishkarsh25/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="50 Days Badge 2023" height="120" width="120" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="50 Days Badge 2023" height="100" width="100" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://leetcode.com/u/nishkarsh25/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100 Days Badge 2023" height="120" width="120" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100 Days Badge 2023" height="100" width="100" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://leetcode.com/u/nishkarsh25/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" height="120" width="120" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" height="100" width="100" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://leetcode.com/u/nishkarsh25/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" height="120" width="120" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" height="100" width="100" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 

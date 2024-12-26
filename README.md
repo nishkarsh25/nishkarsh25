@@ -124,6 +124,6 @@
 <div align="center">
 Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
 
-![](https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal)
+![](https://quotes-github-readme.verce&type=horizontal)
 </div>
 

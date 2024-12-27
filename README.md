@@ -112,7 +112,7 @@
 </a> -->
 
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/7b7864473bba9ec8bb97352582d5e1df679789a6/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/d5a41cbfd1dc1d8eac3dc3500feb15ce8b5cee34/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
 </a>
 
 </div>

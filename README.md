@@ -93,7 +93,7 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nishkarsh25&theme=tokyonight&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=00FFFF&bg_color=0D1117&icon_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&border_radius=15" width="48%" alt="nishkarsh25's GitHub Stats">
 </a> -->
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/6d63fd768590c7ac66c20b69b3bbfe988cb9d2f5/api.svg" width="48%" alt="nishkarsh25's GitHub Stats">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/d95bbc868b5af9e1319582ab4e111e9684cff6b0/api.svg" width="48%" alt="nishkarsh25's GitHub Stats">
 </a>
 
 <!-- Streak Stats -->

@@ -96,9 +96,14 @@
     <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/d32a542fef7249964a489dfe48438b5fcbaa8df4/api.svg" width="48%" alt="nishkarsh25's GitHub Stats">
 </a>
 
-<!-- Streak Stats -->
+<!-- Streak Stats 
 <a href="https://github.com/nishkarsh25?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nishkarsh25&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=00FFFF&background=0D1117&stroke=FFFFFF&ring=00FFFF&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=00FFFF&border_radius=16" width="48%" alt="nishkarsh25's Streak Stats">
+</a>
+-->
+
+<a href="https://github.com/nishkarsh25?tab=repositories">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/667d8eec2dbf90273e0c984c3f57a8da84483f8a/fallback.svg" width="48%" alt="nishkarsh25's Streak Stats">
 </a>
 
 <!-- Top Languages -->

@@ -86,7 +86,7 @@
 <div align="center">
 
 <!-- Profile Visitors -->
-![](https://visitcount.itsvg.in/api?id=nishkarsh25&label=Profile%20Visitors&color=00FFFF&icon=6&pretty=false&style=plastic)
+![](https://komarev.com/ghpvc/?username=nishkarsh25&label=Profile%20Visitors&color=00FFFF&style=for-the-badge)
 
 <!-- GitHub Stats -->
 <!-- <a href="https://github.com/nishkarsh25?tab=repositories">

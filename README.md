@@ -62,7 +62,7 @@
 
 ### Automation, CI/CD & IaC
 
-| Jenkins | Ansible | Terraform | CI/CD Pipelines | GitOps | IaC |
+| Jenkins Ui| Ansible | Terraform | CI/CD Pipelines | GitOps | IaC |
 |:-------:|:-------:|:---------:|:-----:|:------:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" alt="Ansible"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40" alt="Terraform"/> | <img src="https://cdn-icons-gif.flaticon.com/6172/6172532.gif" width="40" height="40" alt="CI/CD"/> | <img src="https://gitops-community.github.io/cuddle_clap.gif" width="40" height="40" alt="GitOps"/> | <img src="https://cdn-icons-gif.flaticon.com/6416/6416396.gif" width="40" height="40" alt="IaC"/> |
 

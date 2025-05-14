@@ -112,7 +112,7 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nishkarsh25&theme=tokyonight&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&border_color=00FFFF&bg_color=0D1117&icon_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&border_radius=15" width="48%" alt="nishkarsh25's GitHub Stats">
 </a> -->
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/d32a542fef7249964a489dfe48438b5fcbaa8df4/api.svg" width="48%" alt="nishkarsh25's GitHub Stats">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/336864a9dd327781003c2e9518c78280cee35a14/api.svg" width="48%" alt="nishkarsh25's GitHub Stats">
 </a>
 
 <!-- Streak Stats 
@@ -122,7 +122,7 @@
 -->
 
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/667d8eec2dbf90273e0c984c3f57a8da84483f8a/fallback.svg" width="48%" alt="nishkarsh25's Streak Stats">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/336864a9dd327781003c2e9518c78280cee35a14/fallback.svg" width="48%" alt="nishkarsh25's Streak Stats">
 </a>
 
 <!-- Top Languages -->
@@ -136,7 +136,7 @@
 </a> -->
 
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/d5a41cbfd1dc1d8eac3dc3500feb15ce8b5cee34/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/336864a9dd327781003c2e9518c78280cee35a14/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
 </a>
 
 </div>

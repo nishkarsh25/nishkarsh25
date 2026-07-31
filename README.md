@@ -127,7 +127,7 @@
 
 <!-- Top Languages -->
 <a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishkarsh25&theme=tokyonight&layout=compact&langs_count=8&border_color=00FFFF&bg_color=0D1117&title_color=00FFFF&icon_color=FF4500&border_radius=15" width="34%" alt="nishkarsh25's Top Languages">
+    <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/main/top-langs.svg" width="34%" alt="nishkarsh25's Top Languages">
 </a>
 
 <!-- Trophies -->

@@ -1,8 +1,12 @@
 <h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Nishkarsh💙 </h1>
 
+<div align="center">
+
 <a href="https://github.com/nishkarsh25">
-<img src="https://readme-typing-svg.herokuapp.com?&color=00FFFF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=45&width=1200&vCenter=true" width="100%" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=38&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=52&width=950&vCenter=true" width="950" alt="Typing introduction"/>
 </a>
+
+</div>
 
 ---
 
@@ -38,17 +42,19 @@
 
 ---
 
+<div align="center">
+
 <h2 align="center">🚀 Skills & Technologies <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"></h2>
 
 <h3 align="center">Languages</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>Python</b></td>
-<td align="center" width="16.67%"><b>C++</b></td>
-<td align="center" width="16.67%"><b>JavaScript</b></td>
-<td align="center" width="16.67%"><b>Kotlin</b></td>
-<td align="center" width="16.67%"><b>JetPackCompose</b></td>
-<td align="center" width="16.67%"><b>Java</b></td>
+<td align="center" width="140"><b>Python</b></td>
+<td align="center" width="140"><b>C++</b></td>
+<td align="center" width="140"><b>JavaScript</b></td>
+<td align="center" width="140"><b>Kotlin</b></td>
+<td align="center" width="140"><b>JetPackCompose</b></td>
+<td align="center" width="140"><b>Java</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48"/></td>
@@ -61,14 +67,14 @@
 </table>
 
 <h3 align="center">Frontend</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>ReactJS</b></td>
-<td align="center" width="16.67%"><b>NextJS</b></td>
-<td align="center" width="16.67%"><b>HTML5</b></td>
-<td align="center" width="16.67%"><b>CSS3</b></td>
-<td align="center" width="16.67%"><b>TailwindCSS</b></td>
-<td align="center" width="16.67%"><b>Redux Toolkit</b></td>
+<td align="center" width="140"><b>ReactJS</b></td>
+<td align="center" width="140"><b>NextJS</b></td>
+<td align="center" width="140"><b>HTML5</b></td>
+<td align="center" width="140"><b>CSS3</b></td>
+<td align="center" width="140"><b>TailwindCSS</b></td>
+<td align="center" width="140"><b>Redux Toolkit</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48"/></td>
@@ -81,14 +87,14 @@
 </table>
 
 <h3 align="center">Backend & Databases</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>NodeJS</b></td>
-<td align="center" width="16.67%"><b>ExpressJS</b></td>
-<td align="center" width="16.67%"><b>MongoDB</b></td>
-<td align="center" width="16.67%"><b>Postgres</b></td>
-<td align="center" width="16.67%"><b>Firebase</b></td>
-<td align="center" width="16.67%"><b>REST APIs</b></td>
+<td align="center" width="140"><b>NodeJS</b></td>
+<td align="center" width="140"><b>ExpressJS</b></td>
+<td align="center" width="140"><b>MongoDB</b></td>
+<td align="center" width="140"><b>Postgres</b></td>
+<td align="center" width="140"><b>Firebase</b></td>
+<td align="center" width="140"><b>REST APIs</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/></td>
@@ -101,14 +107,14 @@
 </table>
 
 <h3 align="center">Python Libraries & Tools</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>NumPy</b></td>
-<td align="center" width="16.67%"><b>Pandas</b></td>
-<td align="center" width="16.67%"><b>Matplotlib</b></td>
-<td align="center" width="16.67%"><b>Scikit-Learn</b></td>
-<td align="center" width="16.67%"><b>TensorFlow</b></td>
-<td align="center" width="16.67%"><b>Flask</b></td>
+<td align="center" width="140"><b>NumPy</b></td>
+<td align="center" width="140"><b>Pandas</b></td>
+<td align="center" width="140"><b>Matplotlib</b></td>
+<td align="center" width="140"><b>Scikit-Learn</b></td>
+<td align="center" width="140"><b>TensorFlow</b></td>
+<td align="center" width="140"><b>Flask</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="48" height="48"/></td>
@@ -121,14 +127,14 @@
 </table>
 
 <h3 align="center">Environments & Tools</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>Conda</b></td>
-<td align="center" width="16.67%"><b>Jupyter</b></td>
-<td align="center" width="16.67%"><b>Android Studio</b></td>
-<td align="center" width="16.67%"><b>VSCode</b></td>
-<td align="center" width="16.67%"><b>Git</b></td>
-<td align="center" width="16.67%"><b>Markdown</b></td>
+<td align="center" width="140"><b>Conda</b></td>
+<td align="center" width="140"><b>Jupyter</b></td>
+<td align="center" width="140"><b>Android Studio</b></td>
+<td align="center" width="140"><b>VSCode</b></td>
+<td align="center" width="140"><b>Git</b></td>
+<td align="center" width="140"><b>Markdown</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="48" height="48"/></td>
@@ -141,14 +147,14 @@
 </table>
 
 <h3 align="center">Infrastructure & Orchestration</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>Docker</b></td>
-<td align="center" width="16.67%"><b>Kubernetes</b></td>
-<td align="center" width="16.67%"><b>ApacheKafka</b></td>
-<td align="center" width="16.67%"><b>RabbitMQ</b></td>
-<td align="center" width="16.67%"><b>NGINX</b></td>
-<td align="center" width="16.67%"><b>SSL</b></td>
+<td align="center" width="140"><b>Docker</b></td>
+<td align="center" width="140"><b>Kubernetes</b></td>
+<td align="center" width="140"><b>ApacheKafka</b></td>
+<td align="center" width="140"><b>RabbitMQ</b></td>
+<td align="center" width="140"><b>NGINX</b></td>
+<td align="center" width="140"><b>SSL</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="48" height="48" alt="Docker"/></td>
@@ -161,14 +167,14 @@
 </table>
 
 <h3 align="center">Monitoring & Cloud</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>AWS</b></td>
-<td align="center" width="16.67%"><b>Argo CD</b></td>
-<td align="center" width="16.67%"><b>Prometheus</b></td>
-<td align="center" width="16.67%"><b>Grafana</b></td>
-<td align="center" width="16.67%"><b>Linux</b></td>
-<td align="center" width="16.67%"><b>Shell Scripting</b></td>
+<td align="center" width="140"><b>AWS</b></td>
+<td align="center" width="140"><b>Argo CD</b></td>
+<td align="center" width="140"><b>Prometheus</b></td>
+<td align="center" width="140"><b>Grafana</b></td>
+<td align="center" width="140"><b>Linux</b></td>
+<td align="center" width="140"><b>Shell Scripting</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/></td>
@@ -181,14 +187,14 @@
 </table>
 
 <h3 align="center">Automation, CI/CD & IaC</h3>
-<table width="100%">
+<table align="center">
 <tr>
-<td align="center" width="16.67%"><b>Jenkins Ui</b></td>
-<td align="center" width="16.67%"><b>Ansible</b></td>
-<td align="center" width="16.67%"><b>Terraform</b></td>
-<td align="center" width="16.67%"><b>CI/CD Pipelines</b></td>
-<td align="center" width="16.67%"><b>GitOps</b></td>
-<td align="center" width="16.67%"><b>IaC</b></td>
+<td align="center" width="140"><b>Jenkins Ui</b></td>
+<td align="center" width="140"><b>Ansible</b></td>
+<td align="center" width="140"><b>Terraform</b></td>
+<td align="center" width="140"><b>CI/CD Pipelines</b></td>
+<td align="center" width="140"><b>GitOps</b></td>
+<td align="center" width="140"><b>IaC</b></td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/></td>
@@ -199,6 +205,8 @@
 <td align="center"><img src="https://cdn-icons-gif.flaticon.com/6416/6416396.gif" width="48" height="48" alt="IaC"/></td>
 </tr>
 </table>
+
+</div>
 
 ## 🏆 LeetCode Statistics 🏆
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">

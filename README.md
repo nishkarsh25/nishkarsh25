@@ -63,7 +63,7 @@
 
 | Jenkins Ui| Ansible | Terraform | CI/CD Pipelines | GitOps | IaC |
 |:-------:|:-------:|:---------:|:-----:|:------:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" style="object-fit: contain;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="45" height="45" alt="Ansible" style="object-fit: contain;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="45" height="45" alt="Terraform" style="object-fit: contain;"/> | <img src="https://cdn-icons-gif.flaticon.com/6172/6172532.gif" width="45" height="45" alt="CI/CD" style="object-fit: contain;"/> | <img src="https://gitops-community.github.io/cuddle_clap.gif" width="45" height="45" alt="GitOps" style="object-fit: contain;"/> | <img src="https://cdn-icons-gif.flaticon.com/6416/6416396.gif" width="45" height="45" alt="IaC" style="object-fit: contain;"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" style="object-fit: contain;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="45" height="45" alt="Ansible" style="object-fit: contain;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="45" height="45" alt="Terraform" style="object-fit: contain;"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="CI/CD" style="object-fit: contain;"/> | <img src="https://gitops-community.github.io/cuddle_clap.gif" width="45" height="45" alt="GitOps" style="object-fit: contain;"/> | <img src="https://cdn-icons-gif.flaticon.com/6416/6416396.gif" width="45" height="45" alt="IaC" style="object-fit: contain;"/> |
 
 
 
@@ -137,6 +137,11 @@
 
 <a href="https://github.com/nishkarsh25?tab=repositories">
     <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/336864a9dd327781003c2e9518c78280cee35a14/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
+</a>
+
+<!-- GitHub Profile Dashboard (samdev-pulse) -->
+<a href="https://github.com/nishkarsh25?tab=repositories">
+    <img src="https://samdev-pulse.vercel.app/api/profile?username=nishkarsh25" width="90%" alt="nishkarsh25's GitHub Profile Dashboard">
 </a>
 
 </div>

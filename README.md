@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/nishkarsh25">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=38&lines=Passionate+Developer💙;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=52&width=950&vCenter=true" width="950" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=38&lines=Passionate+Developer💙;Innovative+Thinker⭐;Love+Solving+Coding+Problems🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=52&width=950&vCenter=true" width="950" alt="Typing introduction"/>
 </a>
 
 </div>

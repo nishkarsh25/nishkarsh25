@@ -20,6 +20,18 @@
 
 ---
 
+## 📈 GitHub Activity Dashboard
+
+<div align="center">
+
+<a href="https://github.com/nishkarsh25?tab=repositories">
+    <img src="https://samdev-pulse.vercel.app/api/profile?username=nishkarsh25" width="85%" alt="nishkarsh25's GitHub Profile Dashboard">
+</a>
+
+</div>
+
+---
+
 ## 🚀 Skills & Technologies <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30">
 
 ### Languages
@@ -137,11 +149,6 @@
 
 <a href="https://github.com/nishkarsh25?tab=repositories">
     <img src="https://raw.githubusercontent.com/nishkarsh25/nishkarsh25/336864a9dd327781003c2e9518c78280cee35a14/download.svg" alt="nishkarsh25's GitHub Trophies" width="90%">
-</a>
-
-<!-- GitHub Profile Dashboard (samdev-pulse) -->
-<a href="https://github.com/nishkarsh25?tab=repositories">
-    <img src="https://samdev-pulse.vercel.app/api/profile?username=nishkarsh25" width="90%" alt="nishkarsh25's GitHub Profile Dashboard">
 </a>
 
 </div>
